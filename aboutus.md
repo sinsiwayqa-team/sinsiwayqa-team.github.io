@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: 제품 품질 개선과 프로세스 개선을 위해 노력하는 사람들의 모임입니다.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+최근 새로운 기술을 도입해보고 업무 프로세스 최적화와 자동화에 노력하고 있습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- SVN -> GIT으로의 전환
+- CI/CD 도입
+- 테스트 자동화 개발 (node.js)
 
-What else do you need?
+지금은 부족하지만 조금이라도 나은 업무 방향을 위해 노력하고 있습니다.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### QA 이력
+20.06.18 github 블로그 개설

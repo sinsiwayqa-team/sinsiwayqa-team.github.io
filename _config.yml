@@ -203,7 +203,7 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-#  - docs/
+  - docs/
 
 plugins:
   - jekyll-paginate
@@ -211,19 +211,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-
-# Development server config, needed to load some of the content
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
-
-# Theme settings
-site_author: test ihjin
-repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
-edit_on_github: true
-github_docs_folder: false
-sticky_navigation: true
-prev_next_buttons_location: both
-search_enabled: true
-hljs_style: github-gist
